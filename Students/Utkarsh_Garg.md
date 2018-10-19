@@ -1,6 +1,7 @@
 # Utkarsh Garg
 
 > WhoAmI ?? :star: :boy:
+
 I'm a pro learner open to explore new career paths. I am an active Tech Community Member ,  a GDG(Google's Developer  Group) Community Member since my college years. I love exploring the works of Open Source community, and gain knowledge and develop ideas on my own. I like to code, read, write, draw and dream to travel a lot! 
 
 I work on Java and Python majorly, with web development being next. Artificial intelligence fascinates me and I hope to work on same in future. Apart from that, I contribute to open-source
